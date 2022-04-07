@@ -117,3 +117,7 @@ footer {
     }
 
   }
+
+  .completed {
+      text-decoration: line-through;
+  }
